@@ -1,0 +1,542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Perfect catalogue of the peeres of the realm of England viz. Dukes, Marquesses, Earles, Viscounts, and Barons now sitting in this present Parliament, began at Westminster the 8th day of May in the 12th year of the reign of our Gracious Soveraign Lord King Charles the Second &amp;c., 1661 : together with the auncient statute for placing the Lords in all Parliaments and other assemblies and conferences of councils.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54328</idno>
+            <idno type="STC">Wing P1475</idno>
+            <idno type="STC">ESTC R26870</idno>
+            <idno type="EEBO-CITATION">09570702</idno>
+            <idno type="OCLC">ocm 09570702</idno>
+            <idno type="VID">43660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1337:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Perfect catalogue of the peeres of the realm of England viz. Dukes, Marquesses, Earles, Viscounts, and Barons now sitting in this present Parliament, began at Westminster the 8th day of May in the 12th year of the reign of our Gracious Soveraign Lord King Charles the Second &amp;c., 1661 : together with the auncient statute for placing the Lords in all Parliaments and other assemblies and conferences of councils.</title>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Sam Brooks and are to be sold by most book-sellers in London,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Lords --  Registers.</term>
+               <term>Nobility --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43660:1"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:43660:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>A PERFECT CATALOGUE OF THE PEERES Of the Realm of ENGLAND VIZ. Dukes, Marqueſſes, Earles, Viſcounts, and Barons now ſitting in this preſent Parliament, began at <hi>Weſtminſter</hi> the 8<hi rend="sup">th</hi> day of <hi>May,</hi> in the 12<hi rend="sup">th</hi> year of the Reign of our Gracious Soveraign Lord King <hi>CHARLES</hi> the Second, <hi>&amp;c.</hi> 1661.</p>
+            <p>According to their Dignities, Offices, and Degrees, with the names of the Judges, and others called thither for their Aſſiſtance, and Officers of their Attendances.</p>
+            <p>Together with the auncient Statute for placing the Lords in all Parliaments and other Aſſemblies and Conferences of COUNCILS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Brooks,</hi> and are to be ſold by moſt Book-ſel<g ref="char:EOLhyphen"/>ſellers in LONDON, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="names">
+            <pb facs="tcp:43660:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:43660:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>THE NAMES of the LORDS TEMPORAL In this Preſent PARLIAMENT, Begun at <hi>Weſtminſter</hi> the 8<hi rend="sup">th</hi> day of <hi>May,</hi> in the 13th, year of the Reign of our moſt Gracious Soveraign Lord King <hi>CHARLES</hi> the II. 1661.</head>
+            <list>
+               <head>Dukes of the Blood-Royal.</head>
+               <item>JAMES Duke of <hi>York</hi> and <hi>Albany,</hi> Lord High Ad<g ref="char:EOLhyphen"/>mirall of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Rupert,</hi> Duke of <hi>Cumber<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>
+                  <hi>Theſe take place in reſpect of their Offices.</hi>
+               </item>
+               <item>Edward Earl of <hi>Clarendon,</hi> Lord Chancellor of <hi>England.</hi>
+               </item>
+               <item>Thomas Earl of <hi>Southampton,</hi>
+               </item>
+               <item>Lord Treaſurer of <hi>England.</hi>
+               </item>
+            </list>
+            <list>
+               <head>DUKES.</head>
+               <item>GEorge Duke of <hi>Buckingh.</hi>
+               </item>
+               <item>Charls Duke of <hi>Richmond.</hi>
+               </item>
+               <item>George Duke of <hi>Albemarl,</hi> Ge<g ref="char:EOLhyphen"/>neral of the Armies.</item>
+            </list>
+            <list>
+               <head>MARQUESSES.</head>
+               <item>JOhn Marqueſs of <hi>Wincheſter.</hi>
+               </item>
+               <item>Edward Marq. of <hi>Worceſter.</hi>
+               </item>
+               <item>William Marq. of <hi>Newcaſtle.</hi>
+               </item>
+               <item>Henry Marqueſs of <hi>Dorcheſter</hi>
+               </item>
+            </list>
+            <pb facs="tcp:43660:3"/>
+            <!-- PDF PAGE 93 -->
+            <list>
+               <head>EARLES.</head>
+               <item>MOuntague Earl of <hi>Lindſey,</hi> Lord High Cham<g ref="char:EOLhyphen"/>berlain of <hi>England.</hi> Which take place in reſpect of their Offi<g ref="char:EOLhyphen"/>ces.</item>
+               <item>James Earl of <hi>Brecknock,</hi> Lord Steward of his Ma<g ref="char:EOLhyphen"/>jeſties Houſhold. Which take place in reſpect of their Offi<g ref="char:EOLhyphen"/>ces.</item>
+               <item>Edward Earl of <hi>Mancheſter,</hi> Chamberlain of the Houſhold. Which take place in reſpect of their Offi<g ref="char:EOLhyphen"/>ces.</item>
+               <item>Awbrey Earl of <hi>Oxford.</hi>
+               </item>
+               <item>Algernon Earl of <hi>Northumberl.</hi>
+               </item>
+               <item>Francis Earl of <hi>Salop.</hi>
+               </item>
+               <item>Charles Earl of <hi>Deroy.</hi>
+               </item>
+               <item>John Earl of <hi>Rutland.</hi>
+               </item>
+               <item>William Earl of <hi>Bedford.</hi>
+               </item>
+               <item>Philip Earle of <hi>Pembrook</hi> and <hi>Mountgomery.</hi>
+               </item>
+               <item>Theophilus Earl of <hi>Lincoln.</hi>
+               </item>
+               <item>Charles Earl of <hi>Nottingham.</hi>
+               </item>
+               <item>James Earl of <hi>Suffolk.</hi>
+               </item>
+               <item>Richard Earl of <hi>Dorcet.</hi>
+               </item>
+               <item>William Eart of <hi>Sarum.</hi>
+               </item>
+               <item>John Earl of <hi>Exon.</hi>
+               </item>
+               <item>John Earl of <hi>Bridgewater.</hi>
+               </item>
+               <item>Robert Earl of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eiceſter.</hi>
+               </item>
+               <item>James Earl of <hi>Northampton.</hi>
+               </item>
+               <item>Charles Earl of <hi>Warwick.</hi>
+               </item>
+               <item>William Earl of <hi>Devon.</hi>
+               </item>
+               <item>Baſill Earl of <hi>Denhigh.</hi>
+               </item>
+               <item>George Earl of <hi>Briſtoll.</hi>
+               </item>
+               <item>Lionel Earl of <hi>Middleſex.</hi>
+               </item>
+               <item>Henry Earl of <hi>Holland</hi>
+               </item>
+               <item>John Earl of <hi>Clare.</hi>
+               </item>
+               <item>Oliver Earl of <hi>Bullingbrook.</hi>
+               </item>
+               <item>Mildmay Earl of <hi>Weſtmerland.</hi>
+               </item>
+               <item>Thomas Earl of <hi>Berks.</hi>
+               </item>
+               <item>Thomas Earl of <hi>Cleveland.</hi>
+               </item>
+               <item>Edward Earl of <hi>Mulgrave.</hi>
+               </item>
+               <item>Henry Earl of <hi>Monmouth.</hi>
+               </item>
+               <item>James Earl of <hi>Marlborough.</hi>
+               </item>
+               <item>Thomas Earl of <hi>Rivers.</hi>
+               </item>
+               <item>Henry Earl of <hi>Dover.</hi>
+               </item>
+               <item>Henry Earl of <hi>Peterborough.</hi>
+               </item>
+               <item>Henry Earl of <hi>Stamford.</hi>
+               </item>
+               <item>Henry Earl of <hi>Winchelſey.</hi>
+               </item>
+               <item>Charles Earle of <hi>Carnarvan.</hi>
+               </item>
+               <item>Mountjoy Earl of <hi>Newport.</hi>
+               </item>
+               <item>Philip Earl of <hi>Cheſterfield.</hi>
+               </item>
+               <item>John Earl of <hi>Thanet.</hi>
+               </item>
+               <item>Jeremy Earl of <hi>Portland.</hi>
+               </item>
+               <item>William Earl of <hi>Stafford.</hi>
+               </item>
+               <item>Robert Earl of <hi>Sunderland.</hi>
+               </item>
+               <item>James Earl of <hi>Suſſex.</hi>
+               </item>
+               <item>George Earl of <hi>Norwich.</hi>
+               </item>
+               <item>Nicholas Earl of <hi>Scarſdale.</hi>
+               </item>
+               <item>Henry Earl of St. <hi>Albans.</hi>
+               </item>
+               <item>Edward Earl of <hi>Sandwich.</hi>
+               </item>
+               <item>Edward Earl of <hi>Clarendon.</hi>
+               </item>
+               <item>Arthur Earl of <hi>Eſſex.</hi>
+               </item>
+               <item>Thomas Earl of <hi>Cardigan.</hi>
+               </item>
+               <item>Arthur Earl of <hi>Angleſey.</hi>
+               </item>
+               <item>John Earle of <hi>Bathe.</hi>
+               </item>
+               <item>Charles Earle of <hi>Carliſle.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:43660:3"/>
+            <!-- PDF PAGE 93 -->
+            <list>
+               <head>VISCOUNTS.</head>
+               <item>LEiceſter Viſcount <hi>Hereford</hi>
+               </item>
+               <item>Francis Viſcou<g ref="char:cmbAbbrStroke">̄</g>t <hi>Mountag.</hi>
+               </item>
+               <item>VVilliam Viſcount <hi>Say</hi> &amp; <hi>Seal.</hi>
+               </item>
+               <item>Edward Viſcount <hi>Conway</hi>
+               </item>
+               <item>Baptiſt Viſcount <hi>Cambden.</hi>
+               </item>
+               <item>VVilliam Viſcount <hi>Stafford.</hi>
+               </item>
+               <item>Thomas Viſcount <hi>Falconberge.</hi>
+               </item>
+               <item>John Viſcount <hi>Mordant.</hi>
+               </item>
+            </list>
+            <list>
+               <head>BARONS.</head>
+               <item>JOhn Lord Nevill of <hi>Aburga<g ref="char:EOLhyphen"/>venny.</hi>
+               </item>
+               <item>James Lord Tutchett of <hi>Awd. ley.</hi>
+               </item>
+               <item>Charles Lord Weſt De La <hi>Ware.</hi>
+               </item>
+               <item>George Lord Berkley of <hi>Berkley</hi>
+               </item>
+               <item>Thomas Lord Parker of <hi>Morley,</hi> and <hi>Mountegle.</hi>
+               </item>
+               <item>Francis Lord Dares.</item>
+               <item>Conyers Lord Darcy of <hi>Darcy.</hi>
+               </item>
+               <item>William Lord Stourton of <hi>Stourton.</hi>
+               </item>
+               <item>William Lord Sandis De Le <hi>Vyne.</hi>
+               </item>
+               <item>Edward Lord Vaux of <hi>Har<g ref="char:EOLhyphen"/>rowden.</hi>
+               </item>
+               <item>Thomas Lord Windſor.</item>
+               <item>Thomas Lord Wentworth.</item>
+               <item>Wingfeild Lord Cromwell.</item>
+               <item>George Lord Bruce.</item>
+               <item>Philip Lord Wharton of <hi>Whar<g ref="char:EOLhyphen"/>ton.</hi>
+               </item>
+               <item>Francis Lord Willoughby of <hi>Parham.</hi>
+               </item>
+               <item>William Lord Pagit of <hi>Beaude<g ref="char:EOLhyphen"/>ſert.</hi>
+               </item>
+               <item>Dudley Lord North.</item>
+               <item>William L. Shandos of <hi>Sudeley</hi>
+               </item>
+               <item>John Lord Carey of <hi>Hunſdon.</hi>
+               </item>
+               <item>William Lord Peter.</item>
+               <item>Dutton Lord Gerard of <hi>Gerards Bromley.</hi>
+               </item>
+               <item>Charles Lord Stanhope of <hi>Har<g ref="char:EOLhyphen"/>rington.</hi>
+               </item>
+               <item>Henry Lord Arundel of <hi>War<g ref="char:EOLhyphen"/>dour.</hi>
+               </item>
+               <item>Chriſtopher Lord Roper of <hi>Tenham.</hi>
+               </item>
+               <item>Robert Lord Brooke.</item>
+               <item>Edward Lord Mountague of <hi>Boughton.</hi>
+               </item>
+               <item>Charles Lord Howard of <hi>Charl<g ref="char:EOLhyphen"/>ton.</hi>
+               </item>
+               <item>William Lord Grey of <hi>Warke.</hi>
+               </item>
+               <item>John Lord Roberts of <hi>Truro.</hi>
+               </item>
+               <item>William Lord Craven of <hi>Hampſtead</hi>
+               </item>
+               <item>John Lord Lovelace of <hi>Hurley.</hi>
+               </item>
+               <item>John Lord Paulet of <hi>Hinton St. George.</hi>
+               </item>
+               <item>William Lord Maynard</item>
+               <item>Thomas Lord Coventry of <hi>Aylesborow.</hi>
+               </item>
+               <item>Edward Lord Howard of <hi>Eſ<g ref="char:EOLhyphen"/>crick.</hi>
+               </item>
+               <item>Warwick Lord Mohun</item>
+               <item>Percy Lord Herbert of <hi>Powis.</hi>
+               </item>
+               <item>Edward Lord Herbert of <hi>Cher<g ref="char:EOLhyphen"/>bury.</hi>
+               </item>
+               <pb facs="tcp:43660:4"/>
+               <!-- PDF PAGE 94 -->
+               <item>Francis Lord Seymour of <hi>Trow. bridge,</hi> Chancellour of the Dutchy of <hi>Lancaſter.</hi>
+               </item>
+               <item>Thomas Lord Bruce of <hi>Wharl<g ref="char:EOLhyphen"/>ton,</hi>
+               </item>
+               <item>Francis Lord Newport of <hi>High areall.</hi>
+               </item>
+               <item>Thomas Lord <hi>Leigh.</hi>
+               </item>
+               <item>Chriſtopher Lord Hatton.</item>
+               <item>Henry Lord Haſtings of <hi>Lough-borough.</hi>
+               </item>
+               <item>Richard Lord Byron.</item>
+               <item>Richard Lord Vaughan.</item>
+               <item>Charles Lord Smith of <hi>Carring<g ref="char:EOLhyphen"/>ton.</hi>
+               </item>
+               <item>William Lord Widdrington.</item>
+               <item>Humble Lord Ward.</item>
+               <item>Thomas Lord Culpeper of <hi>Thoreſway.</hi>
+               </item>
+               <item>Iſaack Lord Aſtley of <hi>Bramford.</hi>
+               </item>
+               <item>Richard Lord Boyle of <hi>Clifford.</hi>
+               </item>
+               <item>Iohn Lord Lucas.</item>
+               <item>Iohn Lord Bellaſis.</item>
+               <item>Lodowick Lord Watſon of <hi>Rockingham.</hi>
+               </item>
+               <item>Charles Lord Gerard of <hi>Bran<g ref="char:EOLhyphen"/>don.</hi>
+               </item>
+               <item>Robert Lo. Sutton of <hi>Lexington</hi>
+               </item>
+               <item>Charles Lord Kirkhoven of <hi>Wotton.</hi>
+               </item>
+               <item>Marmaduke Lord Langdale of <hi>Holme.</hi>
+               </item>
+               <item>William Lord Crofts.</item>
+               <item>Iohn Lord Berkley of Stratton</item>
+               <item>Denzill Lord Hollis of <hi>Ifeild.</hi>
+               </item>
+               <item>Frederick Lord Cornwallis of <hi>Eye.</hi>
+               </item>
+               <item>George Lord De La-Mere of <hi>Dunham Maſſey.</hi>
+               </item>
+               <item>Horatio Lord Townſend of <hi>Lynn Regis.</hi>
+               </item>
+               <item>Anthony Lord Aſhley de <hi>Win<g ref="char:EOLhyphen"/>born</hi> Saint <hi>Giles.</hi>
+               </item>
+               <item>Iohn Lord Crew de <hi>Stene.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="names">
+            <pb facs="tcp:43660:4"/>
+            <!-- PDF PAGE 94 -->
+            <list>
+               <head>The Names of the <hi>ASSISTANTS</hi> in the Houſe of <hi>PEERS.</hi>
+               </head>
+               <item>Sir <hi>Robert Foſter</hi> Knight, Chief Juſtice of the Kings Bench.</item>
+               <item>
+                  <hi>Harbotle Grimſton</hi> Baronet, Mr. of the Rolls.</item>
+               <item>
+                  <hi>Orlando Bridgman,</hi> Knight and Baronet, Chief Juſtice of the Common Pleas</item>
+               <item>
+                  <hi>Matthew Hale,</hi> Chiefe Baron of the Exchequer.</item>
+               <item>
+                  <hi>Thomas Mallet</hi> Knight, one of the Juſtices of the Kings Bench.</item>
+               <item>
+                  <hi>Thomas Twiſden</hi> Knight, one other of the Juſtices of the Kings Bench.</item>
+               <item>
+                  <hi>Wadham Windham</hi> Knight, one other Juſtice of the Kings Bench.</item>
+               <item>
+                  <hi>Robert Hide</hi> Knight, one of the Juſtices of the Common Pleas.</item>
+               <item>
+                  <hi>Thomas Terill</hi> Knight, one other Juſtice of the Common Pleas.</item>
+               <item>
+                  <hi>Samuel Brown</hi> Knight, one other Juſtice of the Common Pleas.</item>
+               <item>
+                  <hi>Edward Atkins</hi> Knight Barons of the Exchequer.</item>
+               <item>
+                  <hi>Chriſtopher Turner</hi> Knight Barons of the Exchequer.</item>
+               <item>
+                  <hi>Jeffery Paliner</hi> Knight, Attorney Generall.</item>
+               <item>
+                  <hi>John Glynne</hi> Knight Serjeants at Law.</item>
+               <item>
+                  <hi>William Wilde</hi> Knight Serjeants at Law.</item>
+               <item>
+                  <hi>Edward Nicholas as</hi> Knight, chief Secretary.</item>
+               <item>Maſters of the Chancery attending according to the direction of the Lord Chancellour.</item>
+            </list>
+            <list>
+               <head>The Officers attending there.</head>
+               <item>
+                  <hi>The Clerke of the Crown.</hi>
+               </item>
+               <item>
+                  <hi>The Clerke of the Parliament.</hi>
+               </item>
+               <item>
+                  <hi>The <g ref="char:V">Ʋ</g>ſher of the black Rod.</hi>
+               </item>
+               <item>
+                  <hi>The Yeoman-<g ref="char:V">Ʋ</g>ſher.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="part">
+            <pb facs="tcp:43660:5"/>
+            <!-- PDF PAGE 95 -->
+            <head>The placing of the Lords in Parliament, and other Aſſemblies, and Conferen<g ref="char:EOLhyphen"/>ces of Councils as eſtabliſhed by <hi>Act</hi> of Parliament, 3 <hi>H.</hi> 8. 10.</head>
+            <p>FOraſmuch as in all great Councils and Congrega<g ref="char:EOLhyphen"/>tions of men, having ſundry Degrees and Offi<g ref="char:EOLhyphen"/>ces in the Common-wealth, it is very requiſite and convenient that an Order ſhould be had and taken for the placing and ſitting of ſuch perſons as be bound to reſort to the ſame, to the intent that they knowing their places, may uſe the ſame without diſpleaſure or let of the Councils. Therefore the Kings moſt Royal Majeſtie although it appertaineth unto his Preroga<g ref="char:EOLhyphen"/>tive Royals, to give ſuch Honour, Reputation, and placing to his Councellors, and other his Subjects as ſhall be ſeeming to his moſt Excellent Wiſdome, is nevertheleſſe pleaſed and contented for an Order to be had and taken in this his moſt high Court of Parlia<g ref="char:EOLhyphen"/>ment, that it ſhall be Enacted in manner and forme as hereafter followeth.</p>
+            <pb n="7" facs="tcp:43660:5"/>
+            <!-- PDF PAGE 95 -->
+            <list>
+               <item>
+                  <note place="margin">None ſhall ſit on either ſide of the cloath of Stave.</note>1. That no perſon or perſons of what Eſtate, De<g ref="char:EOLhyphen"/>gree or Condition ſoever, he or they be (except only the Kings Children) ſhall at any time hereafter attempt or preſume, to ſit or have place at any ſide of the Cloth of Eſtate in the Parliament Chamber, neither of one hand of the Kings Majeſty, nor of the other, whether the Kings Majeſty be there perſonally preſent or abſent.</item>
+               <item>2. Every perſon which ſhall have the office of <hi>Vice<g ref="char:EOLhyphen"/>gerent</hi> Eccleſiaſtical of the grant of the K. Highneſs,<note place="margin">The Kings Vicegerent.</note> his heires or ſucceſſors ſhall ſit and be placed in this and all Parliaments hereafter, to be holden on the right ſide of the Parliament Chamber, and upon the ſame Form that the Arch-Biſhop of <hi>Canterbury</hi> ſitteth on, and above the ſaid Arch-Biſhop and his ſucceſſors, and ſhall have voice in every Parliament to aſſent or diſſent, as other the Lords of the Parliament.</item>
+               <item>3. That next to the <hi>Vicegerent</hi> ſhal ſit the Archbiſhop of <hi>Canterbury,</hi>
+                  <note place="margin">How the Biſh<g ref="char:punc">▪</g> are placed in Parliament.</note> and then next to him on the ſame forme and ſide the Arch Biſhop of <hi>York,</hi> and next to him on the ſame forme and ſide the Biſhop of <hi>London,</hi> and next to him on the ſame ſide and form, the Biſhop of <hi>Dureſme,</hi> and next to him on the ſame ſide and form the Biſhop of <hi>Wincheſter,</hi> and then all other Biſhops ſhall ſit and be placed on the ſame ſide after their ancienties as it hath been accuſtomed.</item>
+               <item>4. That,
+<list>
+                     <item>The Lord Chancellor</item>
+                     <item>The Lord Treaſurer</item>
+                     <item>The Lord Preſident of the Kings Council. and</item>
+                     <item>The Lord Privy Seal.</item>
+                  </list>
+Being of the Degree of Ba<g ref="char:EOLhyphen"/>rons of the Parliament, or above, ſhall ſit and be placed as well in this, as in all other Parliaments hereafter to be holden on the left ſide of the ſaid Parliament Chamber,
+<pb n="8" facs="tcp:43660:6"/>
+                  <!-- PDF PAGE 96 -->on the higher part of the form of the ſame ſide above all Dukes, except only ſuch as ſhall happen to be the Kings Son, the Kings Brother, the Kings Uncle, the Kings Nephew, or the Kings Brothers or Siſters Sons.</item>
+               <item>5. That the Great Chamberlain
+<list>
+                     <item>The Conſtable</item>
+                     <item>The Marſhal</item>
+                     <item>The Lord Admiral</item>
+                     <item>The Great Maſter or Lord Steward</item>
+                     <item>The Kings Chamberlain, <hi>&amp;c.</hi>
+                     </item>
+                  </list>
+ſhall ſit and be pla<g ref="char:EOLhyphen"/>ced after the Lord Privy Seal, in manner and form following, that is to ſay, every of them ſhall ſit and be placed, above all other perſonages, be<g ref="char:EOLhyphen"/>ing of the ſame E<g ref="char:EOLhyphen"/>ſtates or Degrees, that they ſhall happen to be of.</item>
+               <item>
+                  <note place="margin">The Kings Secretary.</note>6. That the Kings chief Secretary, being of the De<g ref="char:EOLhyphen"/>gree of a Baron of the Parliament, ſhall ſit and be placed afore and above all Barons, not having any of the Offices aforementioned; and if he be a Biſhop, that then he ſhall ſit and be placed above all other Biſhops, not having any of the Offices aforementioned.</item>
+               <item>7. All Dukes
+<list>
+                     <item>Marqueſſes.</item>
+                     <item>Earles.</item>
+                     <item>Viſcounts. and</item>
+                     <item>Barons.</item>
+                  </list>
+not aformentioned not having any of the Offices aforeſaid ſhall ſit and be placed after their Anci<g ref="char:EOLhyphen"/>enty, as it hath been accuſtom<g ref="char:EOLhyphen"/>ed.</item>
+               <item>8. That if any perſon or perſons which at any time
+<pb n="9" facs="tcp:43660:6"/>
+                  <!-- PDF PAGE 96 -->hereafter ſhall happen to have any of the ſaid Offices of
+<list>
+                     <item>Lord Chancellour,</item>
+                     <item>Lord Treaſurer,</item>
+                     <item>Lord Preſident of the Kings Council,</item>
+                     <item>Lord Privy-Seale. Or</item>
+                     <item>Chief Secretary,</item>
+                  </list>
+who is under the Degree of a Baron of the Parlia<g ref="char:EOLhyphen"/>ment,<note place="margin">The Places of great Officers under the De<g ref="char:EOLhyphen"/>gree of Barons.</note> by reaſon whereof they can have no intereſt to give any Aſſent or diſſent in the ſaid Houſe, that then in every ſuch caſe, ſuch of them as ſhall happen to be under the degree of a Baron, ſhall ſit and be placed at the uppermoſt part of the woolſacks, in the midſt of the ſaid Parliament Chamber, either there to ſit upon one form, or upon the uppermoſt woolſack, the one of them above the other in Order, as is above rehearſed.</item>
+               <item>
+                  <note place="margin">Places in Try<g ref="char:EOLhyphen"/>al by Peers.</note>9. That in all Tryalls of Treaſons by Peers of this Realm, if any of the Peers that ſhall be called here<g ref="char:EOLhyphen"/>after to be Triers of ſuch Treaſons, ſhall happen to have any of the Offices aforeſaid, that then they having ſuch Offices, ſhall ſit and be placed according to their Offices, above all the other Peers that ſhall be called to ſuch Tryall, in manner and form as is above mention<g ref="char:EOLhyphen"/>ed and rehearſed.</item>
+               <item>10. That as well in all Parliaments, and in all other Aſſembles and Conferences of Councils. The Lord Chancellor, the Lord Treaſurer, the Lord Preſidents, the Lord Privy-Seal, the great Chamberlain, the Conſtable, the Marſhal, the Lord Admiral, the Grand Maſter, or Lord Steward, the Kings Chamberlain, and the Kings chief Secretary, ſhall fit and be placed in ſuch order and faſhion as is above rehearſed, and not in any other place.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
